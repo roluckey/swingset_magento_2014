@@ -1,0 +1,39 @@
+<div class="block block-layered-nav">
+    <div class="block-title">
+        <strong><span>Browse By</span></strong>
+    </div>
+    <div class="block-content">
+        <dl id="narrow-by-list2">
+            <dt>Category</dt>
+            <dd>
+                <ol>
+                                                        <li>
+                        <a href="http://localhost:8888/index.php/products/swingsets/cedar-playgrounds.html?___SID=U">Cedar Playgrounds</a> (0)
+                    </li>
+                                                                            <li>
+                        <a href="http://localhost:8888/index.php/products/swingsets/promotional-playhouse-sets.html?___SID=U">Promotional Playhouse Sets</a> (0)
+                    </li>
+                                                                            <li>
+                        <a href="http://localhost:8888/index.php/products/swingsets/redwood-playgrounds.html?___SID=U">Redwood Playgrounds</a> (0)
+                    </li>
+                                                                            <li>
+                        <a href="http://localhost:8888/index.php/products/swingsets/space-saver-swingsets.html?___SID=U">Space Saver Swingsets</a> (0)
+                    </li>
+                                                                            <li>
+                        <a href="http://localhost:8888/index.php/products/swingsets/vinyl-swingsets.html?___SID=U">Vinyl Swingsets</a> (0)
+                    </li>
+                                                                            <li>
+                        <a href="http://localhost:8888/index.php/products/swingsets/accessories.html?___SID=U">Accessories</a> (0)
+                    </li>
+                                                                            <li>
+                        <a href="http://localhost:8888/index.php/products/swingsets/level-dry.html?___SID=U">Level Dry</a> (0)
+                    </li>
+                                                                            <li>
+                        <a href="http://localhost:8888/index.php/products/swingsets/drop-ship-playsets.html?___SID=U">Drop Ship Playsets</a> (0)
+                    </li>
+                                                    </ol>
+            </dd>
+        </dl>
+        <script type="text/javascript">decorateDataList('narrow-by-list2')</script>
+    </div>
+</div>

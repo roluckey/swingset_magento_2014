@@ -1,0 +1,36 @@
+<div class="block block-layered-nav">
+    <div class="block-title">
+        <strong><span>Browse By</span></strong>
+    </div>
+    <div class="block-content">
+        <dl id="narrow-by-list2">
+            <dt>Category</dt>
+            <dd>
+                <ol>
+                                                        <li>
+                        <a href="http://localhost:8888/index.php/products/swingsets.html?___SID=U">Swingsets</a> (0)
+                    </li>
+                                                                            <li>
+                        <a href="http://localhost:8888/index.php/products/trampolines.html?___SID=U">Trampolines</a> (0)
+                    </li>
+                                                                            <li>
+                        <a href="http://localhost:8888/index.php/products/playground-surfacing.html?___SID=U">Playground Surfacing</a> (0)
+                    </li>
+                                                                            <li>
+                        <a href="http://localhost:8888/index.php/products/goalsetter-systems.html?___SID=U">Goalsetters Basketball</a> (0)
+                    </li>
+                                                                            <li>
+                        <a href="http://localhost:8888/index.php/products/sheds.html?___SID=U">Sheds</a> (0)
+                    </li>
+                                                                            <li>
+                        <a href="http://localhost:8888/index.php/products/outdoor-furniture.html?___SID=U">Outdoor Furniture</a> (0)
+                    </li>
+                                                                            <li>
+                        <a href="http://localhost:8888/index.php/products/playhouses.html?___SID=U">Playhouses</a> (0)
+                    </li>
+                                                    </ol>
+            </dd>
+        </dl>
+        <script type="text/javascript">decorateDataList('narrow-by-list2')</script>
+    </div>
+</div>
